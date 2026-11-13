@@ -1,0 +1,16 @@
+# Zone ids for lsb_flow.py --zones-file: the 133 candidate zones of the mob-placement-paths run.
+# Derived once from the zone list of an EdenXI server (zone type column): every zone whose type is NOT Battlefield, Instanced, None,
+# Limbus or Dynamis, minus zones 0, 3, 43-47, 58-59, 70, 71, 131, 189, 199, 214, 219, 220-228 (excluded by hand).
+# This file is the result; nothing here needs Eden.
+1 2 4 5 7 9 11 12 14 16 18 20
+22 24 25 26 27 28 29 30 32 33 34 35
+48 50 51 52 53 54 61 62 65 68 72 79
+100 101 102 103 104 105 106 107 108 109 110 111
+112 113 114 115 116 117 118 119 120 121 122 123
+124 125 126 127 128 130 140 141 142 143 145 147
+148 149 150 151 152 153 154 157 158 159 160 161
+162 166 167 169 172 173 174 176 177 178 184 190
+191 192 193 194 195 196 197 198 200 204 205 208
+212 213 230 231 232 233 234 235 236 237 238 239
+240 241 242 243 244 245 246 247 248 249 250 251
+252
